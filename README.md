@@ -14,15 +14,15 @@
 
 ### Question 4
 
-[quick sort](pr4.cpp)
+[strassen algo](pr4.cpp)
 
 ### Question 5
 
-[strassen algo](pr5.cpp)
+[radix sort](pr5.cpp)
 
 ### Question 6
 
-[count sort](pr6.cpp)
+[bucket sort](pr6.cpp)
 
 ### Question 7
 
@@ -34,7 +34,7 @@
 
 ### Question 9
 
-[prim's algo](pr9.cpp)
+[ st prim's algo](pr9.cpp)
 
 ### Question 10
 
@@ -42,8 +42,8 @@
 
 ### Question 11
 
-[dynamic prog](pr11.cpp)
+[weighted interval scheduling](pr11.cpp)
 
 ### Question 12
 
-[Open Code](pr12.cpp)
+[01 knapsack](pr12.cpp)
