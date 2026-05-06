@@ -2,7 +2,7 @@
 
 ### Question 1
 
-[Open Code](DAA/pr1.cpp)
+[Open Code](DAA-pr/pr1.cpp)
 
 ### Question 2
 
