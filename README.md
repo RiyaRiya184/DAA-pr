@@ -47,3 +47,11 @@
 ### Question 12
 
 [01 knapsack](pr12.cpp)
+
+### Question 13
+
+[quicksort](pr13.cpp)
+
+### Question 14
+
+[count sort](pr14.cpp)
