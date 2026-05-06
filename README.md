@@ -2,11 +2,11 @@
 
 ### Question 1
 
-[Open Code](pr1.cpp)
+[insertion sort](pr1.cpp)
 
 ### Question 2
 
-[Open Code](pr2.cpp)
+[](pr2.cpp)
 
 ### Question 3
 
