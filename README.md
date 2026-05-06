@@ -6,43 +6,43 @@
 
 ### Question 2
 
-[](pr2.cpp)
+[merge sort](pr2.cpp)
 
 ### Question 3
 
-[Open Code](pr3.cpp)
+[heap sort](pr3.cpp)
 
 ### Question 4
 
-[Open Code](pr4.cpp)
+[quick sort](pr4.cpp)
 
 ### Question 5
 
-[Open Code](pr5.cpp)
+[strassen algo](pr5.cpp)
 
 ### Question 6
 
-[Open Code](pr6.cpp)
+[count sort](pr6.cpp)
 
 ### Question 7
 
-[Open Code](pr7.cpp)
+[bfs algo](pr7.cpp)
 
 ### Question 8
 
-[Open Code](pr8.cpp)
+[dfs algo](pr8.cpp)
 
 ### Question 9
 
-[Open Code](pr9.cpp)
+[prim's algo](pr9.cpp)
 
 ### Question 10
 
-[Open Code](pr10.cpp)
+[dijkstra's algo](pr10.cpp)
 
 ### Question 11
 
-[Open Code](pr11.cpp)
+[dynamic prog](pr11.cpp)
 
 ### Question 12
 
